@@ -70,5 +70,6 @@ I am enthusiastic about Web 3.0 technology, which aims to decentralize the inter
 
 - **LinkedIn:** [Ajay A Adsule](https://www.linkedin.com/in/ajay-adsule-b57104138/)
 
+<img src="https://github-readme-stats.vercel.app/api?username=ajayadsul&show_icons=true&theme=radical&include_all_commits=true">
 
 Thanks for stopping by! 😊
