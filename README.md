@@ -1,4 +1,8 @@
 
+<h1 align="center">
+  <img src="https://github.com/ajayadsul/ajayadsul/blob/main/name.svg" alt="Swaraj Jadhav" />
+</h1>
+
 # Hi there, I'm Ajay A Adsule! 👋
 
 I'm a passionate web developer based in Mumbai, specializing in MERN stack development. Welcome to my GitHub profile!
