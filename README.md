@@ -1,10 +1,11 @@
 
 <h1 style="height: 150px; display: flex; align-items: center; justify-content: center;">
   <img src="https://github.com/ajayadsul/ajayadsul/blob/main/name.svg" alt="Swaraj Jadhav" />
-</h1>
-# Hi there 👋
+</h1
+  
+<h2>Hi There <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I'm a passionate web developer based in Mumbai, specializing in MERN stack development. Welcome to my GitHub profile!
+### I'm a passionate web developer based in Mumbai, specializing in MERN stack development. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
