@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1 align="center" style="height: 150px;">
   <img src="https://github.com/ajayadsul/ajayadsul/blob/main/name.svg" alt="Swaraj Jadhav" />
 </h1>
 # Hi there 👋
