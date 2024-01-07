@@ -68,7 +68,7 @@ I am enthusiastic about Web 3.0 technology, which aims to decentralize the inter
 
 ## Let's Connect :handshake:
 
-<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30">|<h3><a href="[https://www.linkedin.com/in/swarajjadhav](https://www.linkedin.com/in/ajay-adsule-b57104138/)/">Ajay-Ashok-Adsule</a></h3>
+- **LinkedIn:** [Ajay A Adsule](https://www.linkedin.com/in/ajay-adsule-b57104138/)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ajayadsul&show_icons=true&theme=radical&include_all_commits=true">
