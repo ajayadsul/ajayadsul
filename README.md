@@ -5,8 +5,3 @@
   
 <h2 style="display: flex; align-items: center;">Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="margin-left: 10px;"></h2>
 
-## Let's Connect :handshake:
-
-- **LinkedIn:** [Ajay A Adsule](https://www.linkedin.com/in/ajay-adsule-b57104138/)
-
-Thanks for stopping by! 😊
